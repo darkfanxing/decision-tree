@@ -1,3 +1,3 @@
 # decision-tree
 
-a practice about decision tree algorithm with information gain
+A practice about decision tree algorithm with information gain
